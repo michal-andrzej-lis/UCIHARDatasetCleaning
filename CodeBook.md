@@ -16,82 +16,240 @@ Column list:
  2. Subject
     - Desctiption: Individual subject id
     - Values: 1 to 30 (numeric)
- 3. TimeBodyAccMeanX               
- 4. TimeBodyAccMeanY               
- 5. TimeBodyAccMeanZ               
- 6. TimeBodyAccStdX                
- 7. TimeBodyAccStdY                
- 8. TimeBodyAccStdZ                
- 9. TimeGravityAccMeanX            
-10. TimeGravityAccMeanY            
-11. TimeGravityAccMeanZ            
-12. TimeGravityAccStdX             
-13. TimeGravityAccStdY             
-14. TimeGravityAccStdZ             
-15. TimeBodyAccJerkMeanX           
-16. TimeBodyAccJerkMeanY           
-17. TimeBodyAccJerkMeanZ           
-18. TimeBodyAccJerkStdX            
-19. TimeBodyAccJerkStdY            
-20. TimeBodyAccJerkStdZ            
-21. TimeBodyGyroMeanX              
-22. TimeBodyGyroMeanY              
-23. TimeBodyGyroMeanZ              
+ 3. TimeBodyAccMeanX
+    - Desctiption: 
+    - Values:
+ 4. TimeBodyAccMeanY
+    - Desctiption: 
+    - Values:
+ 5. TimeBodyAccMeanZ
+    - Desctiption: 
+    - Values:
+ 6. TimeBodyAccStdX
+    - Desctiption: 
+    - Values:
+ 7. TimeBodyAccStdY
+    - Desctiption: 
+    - Values: 
+ 8. TimeBodyAccStdZ
+    - Desctiption: 
+    - Values:
+ 9. TimeGravityAccMeanX
+    - Desctiption: 
+    - Values:
+10. TimeGravityAccMeanY
+    - Desctiption: 
+    - Values:
+11. TimeGravityAccMeanZ
+    - Desctiption: 
+    - Values:
+12. TimeGravityAccStdX
+    - Desctiption: 
+    - Values:
+13. TimeGravityAccStdY
+    - Desctiption: 
+    - Values:
+14. TimeGravityAccStdZ
+    - Desctiption: 
+    - Values:
+15. TimeBodyAccJerkMeanX
+    - Desctiption: 
+    - Values:
+16. TimeBodyAccJerkMeanY
+    - Desctiption: 
+    - Values:
+17. TimeBodyAccJerkMeanZ
+    - Desctiption: 
+    - Values:
+18. TimeBodyAccJerkStdX
+    - Desctiption: 
+    - Values:
+19. TimeBodyAccJerkStdY
+    - Desctiption: 
+    - Values:
+20. TimeBodyAccJerkStdZ
+    - Desctiption: 
+    - Values:
+21. TimeBodyGyroMeanX
+    - Desctiption: 
+    - Values:
+22. TimeBodyGyroMeanY
+    - Desctiption: 
+    - Values:
+23. TimeBodyGyroMeanZ
+    - Desctiption: 
+    - Values:
 24. TimeBodyGyroStdX               
+    - Desctiption: 
+    - Values:
 25. TimeBodyGyroStdY               
+    - Desctiption: 
+    - Values:
 26. TimeBodyGyroStdZ               
+    - Desctiption: 
+    - Values:
 27. TimeBodyGyroJerkMeanX          
+    - Desctiption: 
+    - Values:
 28. TimeBodyGyroJerkMeanY          
+    - Desctiption: 
+    - Values:
 29. TimeBodyGyroJerkMeanZ          
+    - Desctiption: 
+    - Values:
 30. TimeBodyGyroJerkStdX           
+    - Desctiption: 
+    - Values:
 31. TimeBodyGyroJerkStdY           
+    - Desctiption: 
+    - Values:
 32. TimeBodyGyroJerkStdZ           
+    - Desctiption: 
+    - Values:
 33. TimeBodyAccMagMean             
+    - Desctiption: 
+    - Values:
 34. TimeBodyAccMagStd              
+    - Desctiption: 
+    - Values:
 35. TimeGravityAccMagMean          
+    - Desctiption: 
+    - Values:
 36. TimeGravityAccMagStd           
+    - Desctiption: 
+    - Values:
 37. TimeBodyAccJerkMagMean         
+    - Desctiption: 
+    - Values:
 38. TimeBodyAccJerkMagStd          
+    - Desctiption: 
+    - Values:
 39. TimeBodyGyroMagMean            
+    - Desctiption: 
+    - Values:
 40. TimeBodyGyroMagStd             
+    - Desctiption: 
+    - Values:
 41. TimeBodyGyroJerkMagMean        
+    - Desctiption: 
+    - Values:
 42. TimeBodyGyroJerkMagStd         
+    - Desctiption: 
+    - Values:
 43. FreqBodyAccMeanX               
+    - Desctiption: 
+    - Values:
 44. FreqBodyAccMeanY               
+    - Desctiption: 
+    - Values:
 45. FreqBodyAccMeanZ               
+    - Desctiption: 
+    - Values:
 46. FreqBodyAccStdX                
+    - Desctiption: 
+    - Values:
 47. FreqBodyAccStdY                
+    - Desctiption: 
+    - Values:
 48. FreqBodyAccStdZ                
+    - Desctiption: 
+    - Values:
 49. FreqBodyAccMeanFreqX           
+    - Desctiption: 
+    - Values:
 50. FreqBodyAccMeanFreqY           
+    - Desctiption: 
+    - Values:
 51. FreqBodyAccMeanFreqZ           
+    - Desctiption: 
+    - Values:
 52. FreqBodyAccJerkMeanX           
+    - Desctiption: 
+    - Values:
 53. FreqBodyAccJerkMeanY           
+    - Desctiption: 
+    - Values:
 54. FreqBodyAccJerkMeanZ           
+    - Desctiption: 
+    - Values:
 55. FreqBodyAccJerkStdX            
+    - Desctiption: 
+    - Values:
 56. FreqBodyAccJerkStdY            
+    - Desctiption: 
+    - Values:
 57. FreqBodyAccJerkStdZ            
+    - Desctiption: 
+    - Values:
 58. FreqBodyAccJerkMeanFreqX       
+    - Desctiption: 
+    - Values:
 59. FreqBodyAccJerkMeanFreqY       
+    - Desctiption: 
+    - Values:
 60. FreqBodyAccJerkMeanFreqZ       
+    - Desctiption: 
+    - Values:
 61. FreqBodyGyroMeanX              
+    - Desctiption: 
+    - Values:
 62. FreqBodyGyroMeanY              
+    - Desctiption: 
+    - Values:
 63. FreqBodyGyroMeanZ              
+    - Desctiption: 
+    - Values:
 64. FreqBodyGyroStdX               
+    - Desctiption: 
+    - Values:
 65. FreqBodyGyroStdY               
+    - Desctiption: 
+    - Values:
 66. FreqBodyGyroStdZ               
+    - Desctiption: 
+    - Values:
 67. FreqBodyGyroMeanFreqX          
+    - Desctiption: 
+    - Values:
 68. FreqBodyGyroMeanFreqY          
+    - Desctiption: 
+    - Values:
 69. FreqBodyGyroMeanFreqZ          
+    - Desctiption: 
+    - Values:
 70. FreqBodyAccMagMean             
+    - Desctiption: 
+    - Values:
 71. FreqBodyAccMagStd              
+    - Desctiption: 
+    - Values:
 72. FreqBodyAccMagMeanFreq         
+    - Desctiption: 
+    - Values:
 73. FreqBodyBodyAccJerkMagMean     
+    - Desctiption: 
+    - Values:
 74. FreqBodyBodyAccJerkMagStd      
+    - Desctiption: 
+    - Values:
 75. FreqBodyBodyAccJerkMagMeanFreq 
+    - Desctiption: 
+    - Values:
 76. FreqBodyBodyGyroMagMean        
+    - Desctiption: 
+    - Values:
 77. FreqBodyBodyGyroMagStd         
+    - Desctiption: 
+    - Values:
 78. FreqBodyBodyGyroMagMeanFreq    
+    - Desctiption: 
+    - Values:
 79. FreqBodyBodyGyroJerkMagMean    
+    - Desctiption: 
+    - Values:
 80. FreqBodyBodyGyroJerkMagStd     
+    - Desctiption: 
+    - Values:
 81. FreqBodyBodyGyroJerkMagMeanFreq
+    - Desctiption: 
+    - Values:
