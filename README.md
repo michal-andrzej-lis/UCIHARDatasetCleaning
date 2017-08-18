@@ -19,7 +19,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
     When the data are available in the working directory the script proceeds with combing the data into complete set by:
     1. Importing training and test datasets (UCI HAR Dataset/test/y_test.txt, UCI HAR Dataset/train/y_train.txt)
     2. Naming the columns with the names imported from UCI HAR Dataset/features.txt
-    3. Matching individual rows with the information on the activity and subject performimg it while the measurements was taken.
+    3. Matching individual rows with the information on the activity and subject performimg it
+       while the measurements was taken.
     4. Renaming the columns to provide more descriptive information on the measurements
     5. Exporting the tidy dataset to the current working directory
         
