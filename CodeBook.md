@@ -25,4 +25,5 @@ Original features names described in the original "UCI HAR Dataset/features_info
  3. "mean" and "std" was changed to "Mean" and "Std" respectively
 
 There is no additional information on the final mean value in the columns names as all non-grouping variables are presented as mean values.
+All measurements are presented with no units as they were normalized and bounded within [-1,1]
  
