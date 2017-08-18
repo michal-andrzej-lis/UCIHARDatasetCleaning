@@ -19,7 +19,7 @@ In orther to calculate the avarage grouping information was added as separate co
     - Desctiption: Individual subject id
     - Values: 1 to 30 (numeric)
 
-Original features names as described in the original "UCI HAR Dataset/features_info.txt"-file was renamed according to following steps:
+Original features names described in the original "UCI HAR Dataset/features_info.txt"-file was renamed in the tidy dataset according to following steps:
  1. "t" and "f" prefixes was changed to "Time" and "Freq" respectively
  2. "-" and "()" was removed from the names of the features
  3. "mean" and "std" was changed to "Mean" and "Std" respectively
